@@ -1,0 +1,16 @@
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\bin\Debug\GUIForFTP.exe.config
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\bin\Debug\GUIForFTP.exe
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\bin\Debug\GUIForFTP.pdb
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\MainWindow.g.cs
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\App.g.cs
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP_MarkupCompile.cache
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP_MarkupCompile.lref
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\MainWindow.baml
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.g.resources
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.Properties.Resources.resources
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.csproj.GenerateResource.cache
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.exe
+D:\Working place\Programming(step + other)\Network Program\GUIForFTP-master\GUIForFTP-master\GUIForFTP\obj\Debug\GUIForFTP.pdb

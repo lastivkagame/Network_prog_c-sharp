@@ -1,0 +1,64 @@
+﻿<Window x:Class="WeatherApp.View.WeatherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherApp.View"
+        xmlns:vm="clr-namespace:WeatherApp.ViewModel"
+        xmlns:converters="clr-namespace:WeatherApp.ViewModel.Converters"
+        mc:Ignorable="d"
+        Title="WeatherWindow" Height="420" Width="270">
+
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#727271"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Roboto"/>
+        </Style>
+        <vm:WeatherVM x:Key="vm"/>
+        <converters:UVToStringConverter x:Key="uvToStringConverter"/>
+    </Window.Resources>
+    <Border Background="#21201f">
+        <Grid DataContext="{StaticResource vm}">
+            <StackPanel Margin="10"
+                        DataContext="{Binding Weather.Current_Observation}">
+                <TextBlock Text="{Binding Display_Location.City}"
+                           Margin="0 10 0 0"
+                           FontSize="30"
+                           FontWeight="Bold"/>
+                <TextBlock Text="{Binding Temperature_String}"
+                           FontSize="30"
+                           FontWeight="ExtraBold"
+                           Foreground="#ef6817"
+                           Margin="0 25 0 0"/>
+                <TextBlock Text="{Binding Weather}"
+                           FontSize="15"
+                           FontWeight="DemiBold"
+                           Foreground="#ef6817"
+                           Margin="0 10 0 0"/>
+                <TextBlock Text="{Binding UV, Converter={StaticResource uvToStringConverter}}"
+                           Margin="0 30 0 0"/>
+                <TextBox Text="{Binding Source={StaticResource vm}, Path=Query, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" TextChanged="TextBox_TextChanged"
+                         Margin="0 25 0 0"
+                         Foreground="#727271"
+                         Background="#383838"/>
+                <ListView Height="100"
+                          Foreground="#727271"
+                          Background="#383838"
+                          SelectedItem="{Binding Source={StaticResource vm}, Path=SelectedResult, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                          ItemsSource="{Binding Source={StaticResource vm}, Path=Cities}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Button Content="Refresh"
+                        Command="{Binding Source={StaticResource vm}, Path=RefreshCommand}"
+                        CommandParameter="{Binding Source={StaticResource vm},Path=Weather}"
+                        Foreground="#727271"
+                        Background="#383838"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

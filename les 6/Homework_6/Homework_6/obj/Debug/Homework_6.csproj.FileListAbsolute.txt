@@ -1,0 +1,17 @@
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\MainWindow.g.cs
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\App.g.cs
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6_MarkupCompile.cache
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6_MarkupCompile.lref
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.exe
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.pdb
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\bin\Debug\Homework_6.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\bin\Debug\Homework_6.exe
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\bin\Debug\Homework_6.pdb
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\MainWindow.baml
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.g.resources
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.Properties.Resources.resources
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.csproj.GenerateResource.cache
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\Homework_6.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\DialogHelperWindow.g.cs
+D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\obj\Debug\DialogHelperWindow.baml

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AsyncSockets", "AsyncSockets", "{1E57BB4B-A81E-4EE9-8796-1E7ADBCDB653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_AsyncServer", "01_AsyncServer\01_AsyncServer.csproj", "{38AA6114-A565-417A-AFE1-19DA914FC545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_AsyncClient", "02_AsyncClient\02_AsyncClient.csproj", "{0744FA68-021C-41F8-818A-6C650B253748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AA6114-A565-417A-AFE1-19DA914FC545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AA6114-A565-417A-AFE1-19DA914FC545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AA6114-A565-417A-AFE1-19DA914FC545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AA6114-A565-417A-AFE1-19DA914FC545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0744FA68-021C-41F8-818A-6C650B253748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0744FA68-021C-41F8-818A-6C650B253748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0744FA68-021C-41F8-818A-6C650B253748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0744FA68-021C-41F8-818A-6C650B253748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38AA6114-A565-417A-AFE1-19DA914FC545} = {1E57BB4B-A81E-4EE9-8796-1E7ADBCDB653}
+		{0744FA68-021C-41F8-818A-6C650B253748} = {1E57BB4B-A81E-4EE9-8796-1E7ADBCDB653}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFBBF05D-824A-493A-9C86-70D75BC3C707}
+	EndGlobalSection
+EndGlobal

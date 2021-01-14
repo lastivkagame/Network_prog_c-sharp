@@ -1,0 +1,13 @@
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\server.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\server.exe
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\server.pdb
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\Newtonsoft.Json.dll
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\Newtonsoft.Json.xml
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\obj\Debug\server.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\obj\Debug\server.csproj.CopyComplete
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\obj\Debug\server.exe
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\obj\Debug\server.pdb
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\weather_ui.exe
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\weather_ui.pdb
+D:\Working place\Programming(step + other)\Network Program\les 5\Classwork_5\server\bin\Debug\weather_ui.exe.config

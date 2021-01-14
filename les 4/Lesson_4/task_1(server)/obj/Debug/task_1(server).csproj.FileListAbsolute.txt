@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(server)\bin\Debug\task_1(server).exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(server)\bin\Debug\task_1(server).exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(server)\bin\Debug\task_1(server).pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(server)\obj\Debug\task_1(server).csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(server)\obj\Debug\task_1(server).exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(server)\obj\Debug\task_1(server).pdb

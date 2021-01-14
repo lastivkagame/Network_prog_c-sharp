@@ -1,0 +1,4 @@
+C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\Server.exe
+C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\DAL.dll
+C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\EntityFramework.dll
+C:\Users\dev\source\repos\3layerArch\Server\bin\Debug\EntityFramework.SqlServer.dll

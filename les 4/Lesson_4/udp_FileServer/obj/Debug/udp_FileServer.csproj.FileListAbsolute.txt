@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileServer\bin\Debug\udp_FileServer.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileServer\bin\Debug\udp_FileServer.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileServer\bin\Debug\udp_FileServer.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileServer\obj\Debug\udp_FileServer.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileServer\obj\Debug\udp_FileServer.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileServer\obj\Debug\udp_FileServer.pdb

@@ -1,0 +1,30 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\bin\Debug\Reg_viewer.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\bin\Debug\Reg_viewer.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\bin\Debug\Reg_viewer.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\App.g.cs
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer_MarkupCompile.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer_MarkupCompile.lref
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.g.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.Properties.Resources.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.csproj.GenerateResource.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\Reg_viewer\obj\Debug\Reg_viewer.pdb
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\bin\Debug\Reg_viewer.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\bin\Debug\Reg_viewer.exe
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\bin\Debug\Reg_viewer.pdb
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\MainWindow.g.cs
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\App.g.cs
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer_MarkupCompile.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer_MarkupCompile.lref
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\MainWindow.baml
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.g.resources
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.Properties.Resources.resources
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.csproj.GenerateResource.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.exe
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\Reg_viewer\obj\Debug\Reg_viewer.pdb

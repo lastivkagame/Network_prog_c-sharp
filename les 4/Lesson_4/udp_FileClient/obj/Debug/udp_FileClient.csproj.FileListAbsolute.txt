@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\bin\Debug\udp_FileClient.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\bin\Debug\udp_FileClient.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\bin\Debug\udp_FileClient.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\obj\Debug\udp_FileClient.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\obj\Debug\udp_FileClient.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\obj\Debug\udp_FileClient.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\udp_FileClient\obj\Debug\udp_FileClient.csprojAssemblyReference.cache

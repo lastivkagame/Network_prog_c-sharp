@@ -1,0 +1,123 @@
+﻿<Window x:Class="Homework_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button" >
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="BurlyWood"/>
+            <Setter Property="FontFamily" Value="Cooper"/>
+            <Setter Property="BorderBrush" Value="BlanchedAlmond"/>
+            <Setter Property="BorderThickness" Value="3"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <TabControl >
+            <TabItem Header="Main" FontFamily="Cooper" Foreground="BurlyWood">
+                <Grid Margin="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition MaxHeight="40" Height="1*"/>
+                        <RowDefinition MaxHeight="40" Height="1*"/>
+                        <RowDefinition Height="8*"/>
+                        <RowDefinition MaxHeight="40" Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <!--#region Up first line(in main tab)-->
+                    <Rectangle Grid.Column="0" VerticalAlignment="Top" Fill="BurlyWood" Height="1"/>
+                    <Rectangle Grid.Column="0" Margin="0,2" VerticalAlignment="Bottom" Fill="BurlyWood" Height="1"/>
+                    <TextBlock Margin="5,0" Grid.Column="0" Foreground="BurlyWood" Text="HOST" TextAlignment="Center" FontFamily="Cooper" FontSize="18" VerticalAlignment="Center"></TextBlock>
+                    <TextBox Grid.Column="1" BorderThickness="0" Margin="5,2" TextAlignment="Center" VerticalAlignment="Bottom" FontSize="21" Text="{Binding HOST}"></TextBox>
+                    <Rectangle Margin="5,2" Grid.Column="1" VerticalAlignment="Bottom" Fill="BurlyWood" Height="1"/>
+                    <!--#endregion-->
+
+                    <!--#region Up second line(in main tab)-->
+                    <Rectangle Grid.Column="0" Margin="0,2" Grid.Row="1" VerticalAlignment="Top" Fill="BurlyWood" Height="1"/>
+                    <Rectangle Grid.Column="0" Margin="0,2" Grid.Row="1" VerticalAlignment="Bottom" Fill="BurlyWood" Height="1"/>
+                    <TextBlock Margin="5" Grid.Row="1" Grid.Column="0" Foreground="BurlyWood" Text="PATH" TextAlignment="Center" FontFamily="Cooper" FontSize="18" VerticalAlignment="Center"></TextBlock>
+                    <TextBox Grid.Column="1" Grid.Row="1" BorderThickness="0" Margin="5,2" TextAlignment="Center" VerticalAlignment="Bottom" FontSize="21" Text="{Binding Path=PATH, Mode=TwoWay}"></TextBox>
+                    <Rectangle Margin="5,0" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Fill="BurlyWood" Height="1"/>
+                    <Button Margin="5" Grid.Column="2" FontSize="17" Command="{Binding GetConnect}" Content="CONNECT"></Button>
+                    <!--#endregion-->
+
+                    <!--#region Center List(in main tab)-->
+                    <ListView Grid.Row="2" ItemsSource="{Binding FoldersCollections}" SelectedItem="{Binding SelectedFolder}" Grid.ColumnSpan="3" Margin="5" BorderBrush="DarkGray" BorderThickness="5" Background="LightGray">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel IsItemsHost="True" />
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <Image VerticalAlignment="Center" Margin="2" Height="40" Source="{Binding ImageBitmap}"/>
+                                    <TextBlock FontSize="19" Visibility="{Binding Path=NameFolderVisibility}" Text="{Binding FolderName}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                        <ListView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="RENAME" Command="{Binding Path=RenameFolder}">
+                                </MenuItem>
+                                <MenuItem Header="DELETE" Command="{Binding Path=DeleteFolder}">
+                                    <MenuItem.Icon>
+                                        <!--<Image Source="D:\Working place\Programming(step + other)\Network Program\les 6\Homework_6\Homework_6\image\delete.png" />-->
+                                        <!--<Image Source="/image/delete.png" />-->
+                                        <Image Source="{Binding Path=DeleteImage}" />
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                                <MenuItem Header="DOWNLOAD" Command="{Binding Path=DownloadFolder}">
+                                    <MenuItem.Icon>
+                                        <!--<Image Source="/image/download.png" />-->
+                                        <Image Source="{Binding Path=DownloadImage}" />
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                            </ContextMenu>
+                        </ListView.ContextMenu>
+                        <!--<ListBoxItem />
+                        <ListBoxItem/>-->
+                    </ListView>
+                    <!--#endregion-->
+
+                    <!--#region Bottom Buttons(in main tab)-->
+                    <Grid Grid.Row="4" Grid.ColumnSpan="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="1*"/>
+                            <ColumnDefinition  Width="1*"/>
+                            <ColumnDefinition  Width="0.5*"/>
+                            <ColumnDefinition  Width="0.5*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Margin="5" Grid.Column="0" FontSize="17" Command="{Binding CreateDirectory}" Content="CREATE DIRECTORY"></Button>
+                        <Button Margin="5" Grid.Column="1" FontSize="17" Command="{Binding DownloadYourFiles}" Content="UPLOAD YOUR FILES"></Button>
+                        <Button Margin="5" Grid.Column="2" FontSize="14" Command="{Binding GoFolderUp}" Content="☜"></Button>
+                        <Button Margin="5" Grid.Column="3" FontSize="14" Command="{Binding GoFolderDown}" Content="☞"></Button>
+                    </Grid>
+                    <!--#endregion-->
+                </Grid>
+            </TabItem>
+            <!--#region Some Info about-->
+            <TabItem Header="Helper" FontFamily="Cooper" Foreground="BurlyWood">
+                <StackPanel Margin="15">
+                    <TextBlock FontFamily="Cooper" FontSize="23" TextAlignment="Center">SOME INFO</TextBlock>
+                    <TextBlock FontFamily="Cooper" Text="☞ For start, enter host and click 'connect' then you can see folders and documents in list(gray)"/>
+                    <TextBlock FontFamily="Cooper" Text="☞ if you click 'upload your files' than chose file and it will be upload in current folder(that you see in list)"/>
+                    <TextBlock FontFamily="Cooper" Text="☞ if you click '☜ ☞' you will move to up folder or selected down folder"/>
+                    <TextBlock FontFamily="Cooper" Text="☞ if you click on some element in list you can see menu: "/>
+                    <TextBlock FontFamily="Cooper" Text="      ☞ rename (it appears window enter on it name of folder/file)  "/>
+                    <TextBlock FontFamily="Cooper" Text="      ☞ download  "/>
+                    <TextBlock FontFamily="Cooper" Text="      ☞ delete  "/>
+                    <TextBlock FontFamily="Cooper" Text=""/>
+                </StackPanel>
+            </TabItem>
+            <!--#endregion-->
+        </TabControl>
+    </Grid>
+</Window>

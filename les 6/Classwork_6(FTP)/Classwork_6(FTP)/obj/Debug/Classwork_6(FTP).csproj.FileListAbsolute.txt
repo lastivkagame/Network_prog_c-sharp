@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\bin\Debug\Classwork_6(FTP).exe.config
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\bin\Debug\Classwork_6(FTP).exe
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\bin\Debug\Classwork_6(FTP).pdb
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\obj\Debug\Classwork_6(FTP).csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\obj\Debug\Classwork_6(FTP).csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\obj\Debug\Classwork_6(FTP).exe
+D:\Working place\Programming(step + other)\Network Program\les 6\Classwork_6(FTP)\Classwork_6(FTP)\obj\Debug\Classwork_6(FTP).pdb

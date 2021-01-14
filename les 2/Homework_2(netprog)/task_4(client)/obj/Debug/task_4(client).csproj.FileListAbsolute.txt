@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\bin\Debug\task_4(client).exe.config
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\bin\Debug\task_4(client).exe
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\bin\Debug\task_4(client).pdb
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\obj\Debug\task_4(client).csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\obj\Debug\task_4(client).csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\obj\Debug\task_4(client).exe
+D:\Working place\Programming(step + other)\Network Program\les 2\Homework_2(netprog)\task_4(client)\obj\Debug\task_4(client).pdb

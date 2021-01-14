@@ -1,0 +1,26 @@
+﻿<Window x:Class="task_2_client_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task_2_client_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="367*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="gametext" Grid.Row="0" BorderBrush="Black" Margin="5" Text="Game #1" BorderThickness="3"/>
+        <Button x:Name="btnSearchGame" Grid.Column="1" Margin="5" Content="SEARCH" Background="Gray" Foreground="White" FontSize="20" Click="BtnSearchGame_Click" />
+        <!--<TextBlock x:Name="res_list" Grid.Row="1" Grid.ColumnSpan="2" Background="LightGray" Margin="5">-->
+        <TextBox x:Name="gendretext" Grid.Row="1" BorderBrush="Black" Margin="5" Text="Action" BorderThickness="3"/>
+        <Button x:Name="btnSearchGendre" Grid.Column="1" Grid.Row="1" Margin="5" Content="SEARCH" Background="Gray" Foreground="White" FontSize="20" Click="BtnSearchGendre_Click" />
+        
+    </Grid>
+</Window>

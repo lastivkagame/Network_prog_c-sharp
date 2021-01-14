@@ -1,0 +1,6 @@
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(client)\bin\Debug\task_1(client).exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(client)\bin\Debug\task_1(client).exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(client)\bin\Debug\task_1(client).pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(client)\obj\Debug\task_1(client).csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(client)\obj\Debug\task_1(client).exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\task_1(client)\obj\Debug\task_1(client).pdb

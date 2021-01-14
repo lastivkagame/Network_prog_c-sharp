@@ -1,0 +1,9 @@
+Port for listeting: 8080
+Address for connection: 127.0.0.2
+Port fo connection: 8181
+I`m Wait ... 
+dasha was add! (Time: 11:52 PM (1/1/2021))
+dasha: hello)
+Responce from server: Cras convallis maximus ante tincidunt pellentesque. Ut ac euismod arcu.
+dasha: please work ...
+Responce from server: Aenean facilisis augue sit amet turpis accumsan, ut mollis erat volutpat. Cras sit amet nunc nisl.

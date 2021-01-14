@@ -1,0 +1,14 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\bin\Debug\01_reg.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\bin\Debug\01_reg.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\bin\Debug\01_reg.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\obj\Debug\01_reg.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\obj\Debug\01_reg.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\obj\Debug\01_reg.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\01_reg\obj\Debug\01_reg.pdb
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\bin\Debug\01_reg.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\bin\Debug\01_reg.exe
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\bin\Debug\01_reg.pdb
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\obj\Debug\01_reg.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\obj\Debug\01_reg.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\obj\Debug\01_reg.exe
+D:\Working place\Programming(step + other)\Network Program\les 2\Registry(2)\Registry\01_reg\obj\Debug\01_reg.pdb

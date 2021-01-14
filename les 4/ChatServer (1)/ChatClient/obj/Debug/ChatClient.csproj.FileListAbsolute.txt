@@ -1,0 +1,17 @@
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Academik\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Academik\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Academik\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Academik\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Academik\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\bin\Debug\ChatClient.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\bin\Debug\ChatClient.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\obj\Debug\ChatClient.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatClient\obj\Debug\ChatClient.pdb

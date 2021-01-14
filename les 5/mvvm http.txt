@@ -1,0 +1,12 @@
+Реалізувати WPF-додаток на одну з тем (по бажанню можна і більше :) )
+Скористатись вказаним сервісом до теми
+
+Вимоги:
+Мережева взаємодія (HttpClient, WebRequest, WebResponce)
+На стороні клієнта - MVVM
+1) Прогноз погоди - https://openweathermap.org/
+
+2) Інші варіанти роботи:
+   Зоряні війни - swapi.dev
+
+3) Гаррі Поттер - http://hp-api.herokuapp.com/api/characters

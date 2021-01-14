@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\obj\Debug\client_1.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\obj\Debug\client_1.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\bin\Debug\client_1.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\bin\Debug\client_1.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\bin\Debug\client_1.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\obj\Debug\client_1.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Homework_4(NP UDP log)\client_1\obj\Debug\client_1.pdb

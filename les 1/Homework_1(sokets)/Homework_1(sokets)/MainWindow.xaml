@@ -1,0 +1,28 @@
+﻿<Window x:Class="Homework_1_sokets_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_1_sokets_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="367*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="mainindextext" Grid.Row="0" BorderBrush="Black" Margin="5" Text="976754" BorderThickness="3">
+            
+        </TextBox>
+        <Button x:Name="btnSearch" Grid.Column="1" Margin="5" Content="SEARCH" Background="Gray" Foreground="White" FontSize="20" Click="BtnSearch_Click">
+            
+        </Button>
+        <TextBlock x:Name="res_list" Grid.Row="1" Grid.ColumnSpan="2" Background="LightGray" Margin="5">
+            
+        </TextBlock>
+    </Grid>
+</Window>

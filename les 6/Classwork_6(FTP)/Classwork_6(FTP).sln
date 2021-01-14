@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork_6(FTP)", "Classwork_6(FTP)\Classwork_6(FTP).csproj", "{399CD4CE-71F6-43F4-9709-FDB09D280370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399CD4CE-71F6-43F4-9709-FDB09D280370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399CD4CE-71F6-43F4-9709-FDB09D280370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399CD4CE-71F6-43F4-9709-FDB09D280370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399CD4CE-71F6-43F4-9709-FDB09D280370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58254570-394E-48C6-ABB6-3E0E9A992D11}
+	EndGlobalSection
+EndGlobal

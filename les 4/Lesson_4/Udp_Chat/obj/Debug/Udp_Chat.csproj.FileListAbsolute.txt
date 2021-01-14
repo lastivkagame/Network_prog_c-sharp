@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\bin\Debug\Udp_Chat.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\bin\Debug\Udp_Chat.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\bin\Debug\Udp_Chat.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\obj\Debug\Udp_Chat.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\obj\Debug\Udp_Chat.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\obj\Debug\Udp_Chat.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\Lesson_4\Udp_Chat\obj\Debug\Udp_Chat.csprojAssemblyReference.cache

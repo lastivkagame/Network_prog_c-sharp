@@ -1,0 +1,7 @@
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\bin\Debug\Async_soc_serv.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\bin\Debug\Async_soc_serv.exe
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\bin\Debug\Async_soc_serv.pdb
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\obj\Debug\Async_soc_serv.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\obj\Debug\Async_soc_serv.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\obj\Debug\Async_soc_serv.exe
+D:\Working place\Programming(step + other)\Network Program\les 3\Classwork_3\Async_soc_serv\obj\Debug\Async_soc_serv.pdb

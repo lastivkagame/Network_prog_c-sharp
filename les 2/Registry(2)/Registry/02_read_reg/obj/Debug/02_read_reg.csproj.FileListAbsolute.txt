@@ -1,0 +1,7 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\bin\Debug\02_read_reg.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\bin\Debug\02_read_reg.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\bin\Debug\02_read_reg.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\obj\Debug\02_read_reg.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\obj\Debug\02_read_reg.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\obj\Debug\02_read_reg.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\09 Registry\Registry\02_read_reg\obj\Debug\02_read_reg.pdb

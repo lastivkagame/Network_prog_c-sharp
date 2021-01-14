@@ -1,0 +1,19 @@
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+c:\users\user.step.002\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Academik\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Academik\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Academik\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Academik\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Academik\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Academik\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\bin\Debug\ChatServer.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\bin\Debug\ChatServer.pdb
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\obj\Debug\ChatServer.exe
+D:\Working place\Programming(step + other)\Network Program\les 4\ChatServer (1)\ChatServer\obj\Debug\ChatServer.pdb
